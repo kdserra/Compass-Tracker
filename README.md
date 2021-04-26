@@ -76,7 +76,9 @@ You need to right-click the compass to update the tracker with the player's late
 # <a name="buildinfo"></a>Build Information
 
 Built with IntelliJ IDEA Community Edition 2020.3
+
 Built using [Minecraft Development](https://plugins.jetbrains.com/plugin/8327-minecraft-development) plugin for IntelliJ
+
 Built for Minecraft version 1.16.5
 
 To compile the binary:
