@@ -16,17 +16,25 @@
   <img src="https://github.com/kdserra/Compass-Tracker/blob/main/thumbnails/help.png?raw=true"/>
 </p>
 
+Preview of usingDistanceTracking and usingCoordinateTracking enabled.
+
 <p align="center">
   <img src="https://github.com/kdserra/Compass-Tracker/blob/main/thumbnails/all.png?raw=true"/>
 </p>
+
+Preview of usingDistanceTracking and usingCoordinateTracking disabled.
 
 <p align="center">
   <img src="https://github.com/kdserra/Compass-Tracker/blob/main/thumbnails/name.png?raw=true"/>
 </p>
 
+Preview of usingDistanceTracking enabled.
+
 <p align="center">
   <img src="https://github.com/kdserra/Compass-Tracker/blob/main/thumbnails/dist.png?raw=true"/>
 </p>
+
+Preview of usingCoordinateTracking enabled.
 
 <p align="center">
   <img src="https://github.com/kdserra/Compass-Tracker/blob/main/thumbnails/cord.png?raw=true"/>
