@@ -1,0 +1,12 @@
+name: CompassTracker
+version: ${project.version}
+main: com.github.kdserra.compasstracker.CompassTracker
+api-version: 1.16
+authors: [ kdserra ]
+description: Minecraft Spigot plugin that creates compasses that point to players.
+website: github.com/kdserra
+commands:
+  tracker:
+    description: Creates a compass that points to a player
+    usage: /tracker
+    permission: compasstracker.tracker
