@@ -71,6 +71,7 @@ Navigate to the [releases tab](https://github.com/kdserra/Compass-Tracker/releas
 # <a name="download"></a>Disclaimer
 
 Only Minecraft version 1.16.5 is supported.
+You need to right-click the compass to update the tracker with the player's latest coordinates.
 
 # <a name="buildinfo"></a>Build Information
 
